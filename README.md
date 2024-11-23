@@ -48,3 +48,4 @@ I will just add them to the HTML file, because this is the simplest way to do it
 So what will be my tech stack?
 HTML, some very basic CSS and a static web server.
 Becaues I don't have much money to spend, I will just use GitHub Pages to host the website.
+This does also save me the time to set up and maintain a server.
